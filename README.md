@@ -27,7 +27,7 @@
 
 # 📖 [RoadTrip wheels front-end] <a name="about-project"></a>
 
-### The Roadtrip wheels front end  is the application that uses the data of the Road trip wheels API to have the web application functional, there, you can register, add and delete cars,  make a reservation on a car an check your reservations.
+### The Roadtrip wheels front end is the application that uses the data of the Road trip wheels API to have the web application functional, there, you can register, add and delete cars, make a reservation on a car an check your reservations.
 
 Heres the Backend <a href="https://github.com/luis-pomare/rails-car-booking-rentals-backend" >Link</a>
 
@@ -67,8 +67,7 @@ Heres the Backend <a href="https://github.com/luis-pomare/rails-car-booking-rent
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<a href="https://roadtrip-wheels.onrender.com/">Live demo</a>
-
+<a href="https://rails-car-booking-rentals-frontend.onrender.com/">Live demo</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,7 +89,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-```git clone https://github.com/shayan1234554321/RoadTrip-Wheels```
+`git clone https://github.com/shayan1234554321/RoadTrip-Wheels`
 
 - [ ] Open the file in your code editor
 
@@ -104,11 +103,9 @@ Run the following codes in your project folder in your IDE:
 yarn install
 ```
 
-
 ### Usage
 
 To run the project, execute the following command:
-
 
 ```
 yarn run dev
@@ -117,7 +114,6 @@ yarn run dev
 ### Back end
 
 Go to [the Back end repo](https://github.com/luis-pomare/rails-car-booking-rentals-backend) and follow the readme instructions.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
